@@ -50,7 +50,9 @@
                 android:layout_height="30dp"
                 android:textSize="15dp"
                 android:textColor="#000"
-                android:textStyle="bold"></TextView>
+                android:textStyle="bold">
+
+            </TextView>
         </LinearLayout>
 
         <LinearLayout
@@ -181,7 +183,6 @@
                     android:layout_height="wrap_content"
                     android:text="Rs."
                     android:textSize="15sp"
-
                     android:textStyle="bold"
                     android:textColor="#000"></TextView>
 
