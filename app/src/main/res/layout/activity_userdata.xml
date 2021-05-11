@@ -11,8 +11,8 @@
 
         <androidx.cardview.widget.CardView
             android:id="@+id/cycle_add"
-            android:layout_width="220dp"
-            android:layout_height="201dp"
+            android:layout_width="193dp"
+            android:layout_height="200dp"
             android:layout_row="0"
             android:layout_rowWeight="1"
             android:layout_column="0"
@@ -24,7 +24,7 @@
             app:cardCornerRadius="8dp">
 
             <ImageView
-                android:layout_width="216dp"
+                android:layout_width="203dp"
                 android:layout_height="191dp"
                 android:layout_gravity="center_horizontal|center_vertical"
                 android:src="@drawable/data" />
